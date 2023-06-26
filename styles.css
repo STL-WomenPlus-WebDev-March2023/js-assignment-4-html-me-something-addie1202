@@ -1,1 +1,36 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    background-color: lightblue;
+}
+
+#mainHeading {
+    color: red;
+    text-align: center;
+    font-family: Georgia;
+}
+
+.funParagraph {
+    color: green;
+}
+
+figure {
+    padding:25px;
+    text-align: center;
+}
+
+figcaption {
+    font-style: italic;
+    padding: 25px;
+}
+
+p {
+    margin: 25px;
+    font-family: Arial;
+}
+
+h2 {
+    margin: 15px;
+    color: maroon;
+    font-family: Georgia;
+}
